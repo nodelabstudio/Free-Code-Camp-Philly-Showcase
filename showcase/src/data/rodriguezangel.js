@@ -1,7 +1,7 @@
 export default {
     id: 1,
-    image: 'https://res.cloudinary.com/angelrodriguez/image/upload/v1541082687/round-angel.jpg',
-    username: 'Angel Rodriguez',
+    image: 'https://res.cloudinary.com//image/upload/v1541082687/round-angel.jpg',
+    username: '',
     tagline: 'I am a fairly new web developer with a passion for front and back-end design',
     bio:
       'I also have some experience with JavaScript, React, jQuery, Sass, AWS, ActiveRecord, Node.js, JSON, Phaser3, Tiled, SQLite3, Ruby, Ruby on Rails, Sinatra, Heroku, Firebase, Hugo, Bootsrap, Materialize, HTML5, CSS3, Git and Github. ',
@@ -14,7 +14,7 @@ export default {
       },
       {
         header: 'Word-Spin',
-        href: 'https://angelr1076.github.io/word-spin/',
+        href: '',
         description: 'Word-Spin game that generates random JavaScript terminology. The user wins the game with ten correct answers in a row. The user cannot miss one word though, or he/she faces elimination.',
       },
       {
@@ -25,7 +25,7 @@ export default {
       },
       {
         header: 'Portfolio Site',
-        href: 'https://angelroddie.com/',
+        href: '',
         description:
           'Portfolio site built in ReactJS showcasing all projects written in React, JavaScript, Rails and Sinatra.',
       }, 
